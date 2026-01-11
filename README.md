@@ -1,4 +1,4 @@
-nterview Scheduling Dashboard (In Progress)
+Interview Scheduling Dashboard (In Progress)
 
 A role-based dashboard for recruiters and candidates to manage, book, and track interviews. Actively developed to showcase Java backend and Angular frontend skills with PostgreSQL, Spring Boot, and Calendly integration for smart scheduling.
 
